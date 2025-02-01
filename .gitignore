@@ -1,0 +1,17 @@
+# Colab-specific
+.ipynb_checkpoints
+
+# Data and Output
+*.csv
+*.log
+*.pkl
+*.joblib
+output/
+
+# Virtual Environments
+venv/
+env/
+
+# Hidden files (except .gitignore)
+.*
+!/.gitignore
